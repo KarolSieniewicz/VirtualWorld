@@ -1,0 +1,19 @@
+2 6
+123 123
+Czlowiek 103 47 20 0
+Lis 91 61 8 0
+Lis 7 99 4 0
+Wilk 86 122 13 0
+Wilk 17 37 10 0
+Owca 98 102 17 0
+Owca 82 114 15 0
+Antylopa 7 74 12 0
+Antylopa 69 38 6 0
+Zolw 86 57 23 0
+Zolw 120 89 19 0
+Trawa 116 104 5 0
+Guarana 65 13 3 0
+WilczaJagoda 74 6 2 0
+Guarana 4 89 2 0
+Mlecz 9 28 2 0
+BaszczSosnowskiego 49 18 1 0
